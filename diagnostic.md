@@ -1,6 +1,6 @@
 # Problem Solving Diagnostic
 
-Directions: Please the diagnostic in its entirety before beginning. There may be information throughout that will help you to complete this successfully.
+Directions: Please read the diagnostic in its entirety before beginning. There may be information throughout that will help you to complete this successfully.
 
 ## Question 1
 
